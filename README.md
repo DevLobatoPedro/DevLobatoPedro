@@ -1,4 +1,4 @@
-Estudande de Analise e desenvolvimento de sistemas
+Estudande de Analise e desenvolvimento de sistemas,
 Conhecimento basico em Unity, e desemvolvimento full stack
 
 <!--
