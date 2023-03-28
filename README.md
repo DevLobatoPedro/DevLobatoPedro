@@ -1,5 +1,5 @@
 Estudande de Analise e desenvolvimento de sistemas,
-Conhecimento basico em Unity e desemvolvimento full stack JS/TS
+Conhecimento basico em Unity e desemvolvimento full stack JS/TS com foco em Node Express
 
 <!--
 **DevLobatoPedro/DevLobatoPedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
