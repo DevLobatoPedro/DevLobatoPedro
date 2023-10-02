@@ -17,6 +17,6 @@ Fique à vontade para me perguntar sobre desenvolvimento backend, NestJS, GraphQ
 
 ## 📫 Como me encontrar
 
-- [LinkedIn]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/pedro-lobato-a69316262/))
+- LinkedIn: https://www.linkedin.com/in/pedro-lobato-a69316262/
 - E-mail: Pedrosslobato@gmail.com
 
