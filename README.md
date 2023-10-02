@@ -1,17 +1,22 @@
-Estudande de Analise e desenvolvimento de sistemas,
-Conhecimento basico em Unity e desemvolvimento full stack JS/TS com foco em Node Express
+# Bem-vindo ao meu perfil! 👋
 
-<!--
-**DevLobatoPedro/DevLobatoPedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou um estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento full stack utilizando JavaScript/TypeScript com Node.js e Express. Além disso, tenho conhecimentos básicos em Unity.
 
-Here are some ideas to get you started:
+## 🔭 Atualmente estou trabalhando em
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou me aprimorando em projetos pessoais, acadêmicos e trabalhando como desenvolvedor Back-end Jr, utilizando NestJS com Graphql.
+
+## 🌱 Estou aprendendo
+
+Estou focado em aprimorar minhas habilidades no uso do NestJS, especialmente integrando GraphQL para uma comunicação eficiente entre clientes e servidor, além de aprimorar minhas práticas no desenvolvimento de APIs RESTful.
+
+
+## 💬 Pergunte-me sobre
+
+Fique à vontade para me perguntar sobre desenvolvimento backend, NestJS, GraphQL, RESTful APIs, ou qualquer coisa relacionada a tecnologia. Estou aqui para ajudar!
+
+## 📫 Como me encontrar
+
+- [LinkedIn]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/pedro-lobato-a69316262/))
+- E-mail: Pedrosslobato@gmail.com
+
