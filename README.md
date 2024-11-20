@@ -4,7 +4,7 @@ Olá! Sou um estudante de Análise e Desenvolvimento de Sistemas com foco em des
 
 ## 🔭 Atualmente estou trabalhando em
 
-Atualmente, estou me aprimorando em projetos pessoais, acadêmicos e trabalhando como desenvolvedor Back-end Jr, utilizando NestJS com Graphql.
+Trabalhando como desenvolvedor Back-end Jr, utilizando NestJS com Graphql e sou orientador educacional de cursos fullstack.
 
 ## 🌱 Estou aprendendo
 
